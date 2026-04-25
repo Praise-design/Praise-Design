@@ -6,29 +6,33 @@ My journey into tech started back in primary school, using **Scratch** to create
 ---
 
 ### 💻 What I'm doing now
-- 🚀 **Currently Learning:** React.js and advanced JavaScript (ES6+).
-- 🛠️ **Building with:** HTML5 and CSS3 (Focusing on responsive design and Flexbox/Grid).
+- 🚀 **Currently Learning:** Full-stack development with Node.js, Express, and React.
+- 🛠️ **Building with:** Modern JavaScript (ES6+), focusing on RESTful APIs and backend logic.
 - ✍️ **Writing:** Clean, semantic code and experimenting with UI/UX.
 
 ---
 
 ### 🛠 My Toolbox
 
-**Languages & Frameworks:**
-
+**Frontend & Frameworks:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232d.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+**Backend & Tools:**
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express.js&logoColor=%2361DAFB)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 **Where I started:**
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white) *(Early logic & animations)*
 
 ---
 
-### 📂 Current Projects
-* **A Recipe Website** - A website I built using HTML/CSS. 
-* **A Movie App** - My first steps into the React world.
+### 📂 Projects
+* **A Bio profile** - A website I built using HTML/CSS. 
+* **Navigation App** – My first steps into the React world, co-built with a team of developers.
 
 ---
 
@@ -38,5 +42,5 @@ My journey into tech started back in primary school, using **Scratch** to create
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** https://www.linkedin.com/in/iyinoluwa-babarinde-52344a359?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn:** [Iyinoluwa Babarinde](https://www.linkedin.com/in/iyinoluwa-babarinde-52344a359)
 - **Personal Portfolio:** In progress
